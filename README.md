@@ -1,2 +1,3 @@
-# Guess-my-number-master
-Designed and implemented game logic to generate a random number, receive user input, and provide feedback based on the guess. Created a user-friendly interface with clear instructions and visual cues
+<h1>guess my number</h1>
+
+<a href="https://guess-my-number-p3.netlify.app/">Guess game live demo<a>
